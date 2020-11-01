@@ -1,0 +1,42 @@
+
+
+body{
+ background:gray;
+ color:white;
+ }
+ a{
+ color:black;
+ text-decoration:none;
+ }
+ a:hover{
+	 color:blue;
+	 background: white;
+	 text-decoration:none;
+	 }
+ h1{font-family: serif;
+	 font-size:50pt;
+	 text-shadow: 1px 1px 0 #000;
+	 }
+	 .indent{
+		 margin-left: 50pt;
+	 }
+	 .space{
+		 margin-bottom: 20pt;
+	 }
+	 .uppercase{
+		 text-transform: uppercase;
+	 }
+	 h3{
+		 color:black;
+		
+	 }
+	 h1{
+		 color:black;
+	 }
+	 h5{
+		 color:black;
+	 }
+	 h3:hover{
+		 color:blue;
+
+	 }
